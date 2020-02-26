@@ -22,12 +22,10 @@
 ------------------------------------------------------
 
 IDA로 열었을때 다음과 같이 hex ray 가 디컴파일 해주는데 보면 <br>
-QUFBQUFBQUFBQUFBQUFBQQ==
-==로 끝나는 base64 인코딩 형식이 보이고 디코딩 해 보면
-AAAAAAAAAAAAAAAA
-가 나오는것을 확인 할 수 있습니다.
-해서 다른것도 디코딩을 해보면 
-아래쪽에 있는
-Z2lnZW17M2E1eV9SM3YzcjUxTjYhfQ==
-이 base64 형식이
-gigem{3a5y_R3v3r51N6!}로 디코딩 되는것을 확인 할 수 있습니다.
+QUFBQUFBQUFBQUFBQUFBQQ==<br>
+==로 끝나는 base64 인코딩 형식이 보이고 디코딩 해 보면<br>
+AAAAAAAAAAAAAAAA<br>
+가 나오는것을 확인 할 수 있습니다.<br>
+해서 다른것도 디코딩을 해보면 아래쪽에 있는<br>
+Z2lnZW17M2E1eV9SM3YzcjUxTjYhfQ== base64 형식이<br>
+gigem{3a5y_R3v3r51N6!}로 디코딩 되는것을 확인 할 수 있습니다.<br>
