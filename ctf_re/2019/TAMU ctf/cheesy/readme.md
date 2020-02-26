@@ -21,8 +21,7 @@
 
 ------------------------------------------------------
 
-IDA로 열었을때 다음과 같이 hex ray 가 디컴파일 해주는데 
-보면 
+IDA로 열었을때 다음과 같이 hex ray 가 디컴파일 해주는데 보면 <br>
 QUFBQUFBQUFBQUFBQUFBQQ==
 ==로 끝나는 base64 인코딩 형식이 보이고 디코딩 해 보면
 AAAAAAAAAAAAAAAA
