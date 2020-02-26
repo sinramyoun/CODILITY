@@ -19,7 +19,7 @@ def main():
         for i in Fqaa:
             alYe += chr(i)
 
-        print kUIl
+        print alYe
     else:
         print datetime.now()
 

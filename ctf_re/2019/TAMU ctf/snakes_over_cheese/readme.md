@@ -5,11 +5,11 @@ uncompyle6을 이용하여 해당 파일을 디컴파일 해보면 간단한 코
 <br>
 uncompyle6 -o reversing.py reversing2.pyc<br>
 <br>
-# uncompyle6 version 3.6.4<br>
-# Python bytecode 2.7 (62211)<br>
-# Decompiled from: Python 2.7.17 (v2.7.17:c2f86d86e6, Oct 19 2019, 21:01:17) [MSC v.1500 64 bit (AMD64)]<br>
-# Embedded file name: reversing2.py<br>
-# Compiled at: 2018-10-08 04:28:58<br>
+#uncompyle6 version 3.6.4<br>
+#Python bytecode 2.7 (62211)<br>
+#Decompiled from: Python 2.7.17 (v2.7.17:c2f86d86e6, Oct 19 2019, 21:01:17) [MSC v.1500 64 bit (AMD64)]<br>
+#Embedded file name: reversing2.py<br>
+#Compiled at: 2018-10-08 04:28:58<br>
 from datetime import datetime<br>
 Fqaa = [102, 108, 97, 103, 123, 100, 101, 99, 111, 109, 112, 105, 108, 101, 125]<br>
 XidT = [83, 117, 112, 101, 114, 83, 101, 99, 114, 101, 116, 75, 101, 121]<br>
