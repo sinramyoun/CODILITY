@@ -1,0 +1,1 @@
+numpy, pandas 가지고 노는중
